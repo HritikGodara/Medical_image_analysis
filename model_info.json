@@ -1,0 +1,13 @@
+{
+    "model": "DenseNet121",
+    "accuracy": 0.90,
+    "input_size": [
+        224,
+        224,
+        3
+    ],
+    "classes": [
+        "Normal",
+        "Pneumonia"
+    ]
+}
