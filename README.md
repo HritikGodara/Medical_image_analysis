@@ -128,7 +128,7 @@ Each model was evaluated using accuracy, precision, recall, F1 score, confusion 
 
 ## Author
 
-**Hritik Godara**  
+**Hritik G Bishnoi**  
 AI/ML Developer
 
 ---
